@@ -1,0 +1,30 @@
+item.ItemAtomicstone.name=§5Atomic Stone
+item.ItemAtomicEssence.name=§5Atomic Essence
+item.ItemTorchStaff.name=§5Torch Staff
+item.ItemClockDay.name=§5Day Clock
+item.ItemClockNight.name=§4[WIP]§5Night Clock
+item.ItemLavaAgg.name=§5Lava Aggregator
+item.ItemWaterAgg.name=§5Water Aggregator
+
+item.ItemLifeHeart.name=§4Life Heart §aLow
+item.ItemLifeHeartMK2.name=§4Life Heart §bMedium
+item.ItemLifeHeartMK3.name=§4Life Heart §dHigh
+
+item.ItemSoulEssenceL.name=§9Soul Essence L
+item.ItemSoulEssenceM.name=§9Soul Essence M
+item.ItemSoulEssenceJ.name=§9Soul Essence J
+item.ItemSoulEssenceO.name=§9Soul Essence O
+
+item.coval_dust_low.name=§aLow Coval Dust
+item.coval_dust_medium.name=§bMedium Coval Dust
+item.coval_dust_high.name=§dHigh Coval Dust
+
+tile.BlockAtomiccus.name=§9Atomiccus
+tile.block_coval_1.name=§aBlock Coval Dust Low
+tile.block_coval_2.name=§bBlock Coval Dust Medium
+tile.block_coval_3.name=§dBlock Coval Dust High
+
+itemGroup.AtomicSwitch=§9Atomic Switch
+
+achievement.Atomic_Stone=The Beginning
+achievement.Atomic_Stone.desc=Crafte a Atomic Stone

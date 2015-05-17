@@ -1,0 +1,17 @@
+[
+{
+  "modid": "AtomicSwitch",
+  "name": "Atomic Switch",
+  "description": "In Development",
+  "version": "1.4.7.2",
+  "mcversion": "1.7.10",
+  "url": "https://www.dropbox.com/sh/wnimu00pph19eic/AACKuPfoNZ9PDvghw9uFt6eNa?dl=0",
+  "updateUrl": "https://www.dropbox.com/sh/wnimu00pph19eic/AACKuPfoNZ9PDvghw9uFt6eNa?dl=0",
+  "authorList": ["FloeyGH"],
+  "credits": "DirrtyGrinch Ideas",
+  "Alpha Tester": "Bullshift_Channel",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
